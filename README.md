@@ -1,5 +1,5 @@
 
-
+<p align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhEb-VIKehONi9lvlZyBmOSjwQm7jI71-rOA64jkXSGkT8ORHhQHYuOCA&s=10" alt="GitHub Banner" width="100%
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
