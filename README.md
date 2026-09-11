@@ -1,5 +1,5 @@
 
-![Learning by AppTech](https://via.placeholder.com/1000x300.png?text=Learning+by+AppTech)
+svg width="1280" height="320" viewBox="0 0 1280 320"> <rect width="1280" height="320" rx="18" fill="#0B1120 <g opacity="0.06" stroke="#CBD5E1"> <!-- grid lines --> circles on left and right, accent lines, and text <text x="640" y="185" text-anchor="middle" fill=" #FFFFFF" font-size="72" font-weight="700" letter-spacing="12"> WELCOME </text </svg>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
